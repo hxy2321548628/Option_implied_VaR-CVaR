@@ -1,0 +1,15 @@
+[project]
+name = "reseach"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "colorful-prints>=1.6",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.5",
+    "pandas>=2.2.3",
+    "pip>=25.1.1",
+    "scipy>=1.15.2",
+    "tushare>=1.4.21",
+]
